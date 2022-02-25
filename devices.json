@@ -161,9 +161,9 @@
          {
             "maintainer_name": "Anierin Bliss",
             "maintainer_url": "https://forum.xda-developers.com/m/anierinb.7125966",
-            "version_code": "eleven",
-            "version_name": "Eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r43-official-evolution-x-5-9-2-sanctuary-09-07-2021.4276623"
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0_r32-official-evolution-x-6-0-02-21-2022.4276623/"
          }
       ]
    },
@@ -175,9 +175,9 @@
          {
             "maintainer_name": "Anierin Bliss",
             "maintainer_url": "https://forum.xda-developers.com/m/anierinb.7125966",
-            "version_code": "eleven",
-            "version_name": "Eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r43-official-evolution-x-5-9-2-sanctuary-09-07-2021.4276623"
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0_r32-official-evolution-x-6-0-02-21-2022.4276623/"
          }
       ]
    },
@@ -187,11 +187,11 @@
       "name": "OnePlus 8T",
       "supported_versions": [
          {
-            "maintainer_name": "Anierin Bliss",
+            "maintainer_name": "Anierin Bliss & Dominique",
             "maintainer_url": "https://forum.xda-developers.com/m/anierinb.7125966",
-            "version_code": "eleven",
-            "version_name": "Eleven",
-            "xda_thread": "https://forum.xda-developers.com/t/rom-11-0_r43-official-evolution-x-5-9-2-sanctuary-09-07-2021.4276623"
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-0_r32-official-evolution-x-6-0-02-21-2022.4276623/"
          }
       ]
    },
@@ -626,6 +626,34 @@
             "version_code": "twelve",
             "version_name": "Twelve",
             "xda_thread": "https://forum.xda-developers.com/t/rom-12-0-official-cepheus-evolution-x-snow-6-0-02-19-2022.4404821"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "vayu",
+      "name": "Poco X3 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "elizabethangelalorenza",
+            "maintainer_url": "https://forum.xda-developers.com/m/elizabethangelalorenza.7923660",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-official-evolution-x-poco-x3-pro-vayu.4368817"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "name": "Redmi 7A/8/8A/8A Dual",
+      "supported_versions": [
+         {
+            "maintainer_name": "JaswalAshish (JaswalAshish)",
+            "maintainer_url": "https://forum.xda-developers.com/m/ashish11948.11817917/",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-mi439-official-evolution-x-snow-24-02-2022.4407201/"
          }
       ]
    }
